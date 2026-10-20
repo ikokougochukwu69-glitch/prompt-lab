@@ -26,7 +26,7 @@ To add a technique, drop a new `.txt` file in `prompts/` with a `$text` placehol
 ## Quick start
 
 ```bash
-git clone https://github.com/<ikokougochukwu69-glitch>/prompt-lab.git
+git clone https://github.com/ikokougochukwu69-glitch/prompt-lab.git
 cd prompt-lab
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
