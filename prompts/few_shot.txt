@@ -1,0 +1,13 @@
+Classify the sentiment of product reviews as positive, negative, or neutral.
+
+Review: The battery lasts all day and charging is fast.
+Sentiment: positive
+
+Review: Stopped working after two weeks. Support never replied.
+Sentiment: negative
+
+Review: It arrived on Tuesday in a cardboard box.
+Sentiment: neutral
+
+Review: $text
+Sentiment:

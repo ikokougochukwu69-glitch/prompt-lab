@@ -1,0 +1,7 @@
+You are a customer-experience analyst who reads thousands of product reviews a week. You know that sarcasm, mixed opinions, and plain factual statements are the most common sources of misclassification, and you judge the reviewer's overall attitude rather than individual words.
+
+Classify the sentiment of this review as positive, negative, or neutral.
+
+Review: $text
+
+Respond with exactly one word: positive, negative, or neutral.

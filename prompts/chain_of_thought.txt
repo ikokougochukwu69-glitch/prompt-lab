@@ -1,0 +1,6 @@
+Classify the sentiment of the following product review as positive, negative, or neutral.
+
+Review: $text
+
+First, briefly note the words or phrases that signal the reviewer's attitude, and whether any praise is outweighed by complaints (or vice versa). Then give your final answer on its own line in this exact format:
+Answer: <positive|negative|neutral>
